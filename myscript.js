@@ -6,7 +6,7 @@ var x = 20
 var y = 50
 
 //Alerts
-alert ("Welcome to Ka Kui's JS test page!");
+alert("Welcome to Ka Kui's JS test page!");
 
 //Strings and Numbers
 var stringHello = "Hello"
